@@ -1,6 +1,7 @@
 title,description,price,image_link,availability,inventory
-Loteye,Milk coffee,909,https://example.com/latte.jpg,in stock,200
+Latte,Milk coffee,909,https://example.com/latte.jpg,in stock,200
 Mocha,Chocolate coffee,500,https://example.com/mocha.jpg,out of stock,300
+
 
 
 
