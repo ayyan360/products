@@ -1,6 +1,7 @@
 title,description,price,image_link,availability,inventory
-Latte,Milk coffee,110,https://example.com/latte.jpg,in stock,200
+Lotte choco pie,Milk coffee,110,https://example.com/latte.jpg,in stock,200
 Mocha Tea,Chocolate coffee,500,https://example.com/mocha.jpg,out of stock,300
+
 
 
 
